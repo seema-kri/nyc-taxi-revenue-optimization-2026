@@ -14,7 +14,7 @@ To reproduce this analysis, download raw data from link above and place in `data
 
 ## Data Dictionary
 
-`data_dictionary.pdf` included in this folder describes all 20 columns, data types, and definitions used in raw dataset.
+`data_dictionary_trip_records_yellow.pdf` included in this folder — describes all 20 columns, data types, and definitions used in raw dataset.
 
 ## Processed Data
 

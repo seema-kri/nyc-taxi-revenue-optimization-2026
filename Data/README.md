@@ -4,11 +4,10 @@
 
 Raw dataset too large to upload to GitHub (4M+ rows). Not included in this repo.
 
-**Source:** NYC Taxi Trip Records — https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-
-**Download:** https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-**Format:** Parquet
-**Size:** ~4,090,836 rows × 20 columns
+**Source:** NYC Taxi Trip Records — https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page  
+**Download:** https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page  
+**Format:** Parquet  
+**Size:** ~4,090,836 rows × 20 columns  
 **Date range:** May 2026
 
 To reproduce this analysis, download raw data from link above and place in `data/raw/`.

@@ -188,3 +188,5 @@ The analysis does not establish that card payment itself causes higher revenue. 
 📧 [seemakri136@gmail.com](mailto:seemakri136@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/seema-kumari-375763308)
 
 *Open to opportunities, collaborations, and conversations around data analytics.*
+
+## ⭐ If you found this project useful

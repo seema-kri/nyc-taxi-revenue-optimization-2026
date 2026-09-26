@@ -189,4 +189,4 @@ The analysis does not establish that card payment itself causes higher revenue. 
 
 *Open to opportunities, collaborations, and conversations around data analytics.*
 
- ## ⭐ If this project was useful, a star on the repo is appreciated.
+If you found this project helpful, please consider giving it a ⭐ on GitHub — it helps a lot!
